@@ -47,10 +47,6 @@ These days there is a lot of online test platform which enables students to take
 
 # 5. Taking a test
 
--> Should create a directory called “.TestData” in the user’s directory structure. For example, – Linux systems/Projects directory if it doesn’t exist.
-
--> Create a file named “answer_file.csv” under the TestData directory if it doesn’t exist.
-
 -> Prompt the user with questions one by one randomly picked from the question_bank.
 
 -> Prompt for questions with multiple choice
