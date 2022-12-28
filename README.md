@@ -55,7 +55,7 @@ These days there is a lot of online test platform which enables students to take
 
 -> On timeout, the question should change with a fresh time
 
--> Every answer should be stored in answer_file.txt with the question separated by a comma
+-> Every answer should be stored in currect_answer.txt with the question separated by a comma
 
 -> The answer should be stored with attempt time (say if I answer within 5 seconds, then my answer with 5 seconds (attempt time) should be stored
 
