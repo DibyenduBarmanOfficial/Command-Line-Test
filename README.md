@@ -62,3 +62,5 @@ These days there is a lot of online test platform which enables students to take
 -> If the user chooses this option, the script should show all the questions with all options, and the answer should be highlighted
 
 -> All the user-entered answers have to be entered in the user_answer.txt
+
+-> After an attempt successfully, all the question users will get the final score with correct & incorrect answers 
